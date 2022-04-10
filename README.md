@@ -4,7 +4,7 @@
 - 🏫 I’m currently studying at 1337 school
 - 👨‍💻 I’m currently learning deeply about C language 
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=bben-aou)](https://github.com/mohouyizme/1337-readme)
+[![bben-aou's 42 stats](https://badge42.vercel.app/api/v2/cl1tav1xa000609l6ey3w2p80/stats?cursusId=21&coalitionId=74)
 
 ## 🚀💻 Technologies & Tools
 
