@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently learning deeply about C language 
 
 
-[![bben-aou's 42 stats](https://badge.mediaplus.ma/landscapes/bben-aou)](https://github.com/oakoudad/badge42)
+[![bben-aou's 42 stats](https://badge.mediaplus.ma/binary/bben-aou)](https://github.com/oakoudad/badge42)
 
 
 
