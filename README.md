@@ -1,7 +1,7 @@
 ### Hi everyone 👋 I'm Bilal Ben Aouad 
 
 
-- 🏫 I’m working as a software developer 
+- 🏫 I’m currently working as a software developer 
 - 👨‍💻 I’m currently learning Java && Spring Boot
 
 
