@@ -1,8 +1,8 @@
 ### Hi everyone 👋 I'm Bilal Ben Aouad 
 
 
-- 🏫 I’m currently studying at 1337 school
-- 👨‍💻 I’m currently learning ReactJs, NextJs
+- 🏫 I’m working as a software developer 
+- 👨‍💻 I’m currently learning Java && Spring Boot
 
 
 [![bben-aou's 42 stats](https://badge.mediaplus.ma/binary/bben-aou)](https://github.com/oakoudad/badge42)
