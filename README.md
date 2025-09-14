@@ -22,6 +22,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bben-aou&show_icons=true&count_private=true&theme=gruvbox" />
 
-<a href="https://app.daily.dev/bilal123"><img src="https://api.daily.dev/devcards/v2/j8xGlMSCI8Qq6ICgK5Rpq.png?type=default&r=t7z" width="356" alt="Bilal's Dev Card"/></a>
+## ⚡ Daily.Dev Stats
+
+<a href="https://app.daily.dev/bilal123">
+<img src="https://api.daily.dev/devcards/v2/j8xGlMSCI8Qq6ICgK5Rpq.png?type=default&r=t7z" width="356" alt="Bilal's Dev Card"/></a>
 
 
