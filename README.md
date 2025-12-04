@@ -1,7 +1,6 @@
 ### Hi everyone 👋 I'm Bilal Ben Aouad  
 
-- 🏫 Currently working as a **Software Developer**  
-- 👨‍💻 Learning **Java & Spring Boot**  
+Software Engineer with a knack for clean interfaces, smooth journeys, and solving real world problems with code. I care about people first, pixels second and I build products that reflect both.
 
 [![bben-aou's 42 stats](https://badge.mediaplus.ma/binary/bben-aou)](https://github.com/oakoudad/badge42)  
 
