@@ -1,36 +1,74 @@
-### Hi everyone 👋 I'm Bilal Ben Aouad  
+# 👋 Hi, I'm Bilal Ben Aouad  
+### Software Engineer
 
-Software Engineer with a knack for clean interfaces, smooth journeys, and solving real world problems with code. I care about people first, pixels second and I build products that reflect both.
+Building scalable, performant, and human-centered web applications.
 
-[![bben-aou's 42 stats](https://badge.mediaplus.ma/binary/bben-aou)](https://github.com/oakoudad/badge42)  
+I specialize in crafting **clean architectures**, intuitive interfaces, and high-performance frontend systems.  
+My engineering approach focuses on **scalability, UX quality, performance, and long-term maintainability**.
 
-## 🚀💻 Technologies & Tools  
+---
 
-<div >
+## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Tech Stack](https://skillicons.dev/icons?i=react,next,ts,js,tailwind,redux,graphql,prisma,docker,postgres,jest,git)
 
-</div>
+---
 
-## ⚡ GitHub Stats  
+## 🚀 What I Do
 
-<div >
+### **Frontend Architecture**  
+Reusable component systems, scalable patterns, maintainable codebases, design systems.
 
-<img src="https://github-readme-stats.vercel.app/api?username=bben-aou&show_icons=true&count_private=true&theme=gruvbox" />
+### **Performance Engineering**  
+Lighthouse optimization, caching strategies, bundle size reduction, rendering performance.
 
-</div>
+### **Complex UX & Data Flows**  
+Dynamic forms, workflow engines, dashboards, schema-driven UI, real-time updates.
 
-## 📰 Daily.Dev Stats  
+### **Developer Experience**  
+Testing, tooling, automation, documentation, reliability, CI workflows.
 
-<div >
+---
+
+## 📊 GitHub Analytics
+
+### 🔥 Streak & Contribution Activity  
+![GitHub Streak](https://streak-stats.demolab.com?user=bben-aou&theme=gruvbox&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bben-aou&theme=gruvbox&hide_border=true)
+
+---
+
+### 📈 Stats Overview  
+![Bilal's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=bben-aou&theme=gruvbox&show_icons=true&hide_border=true)
+
+---
+
+### 📚 Most Used Technologies  
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bben-aou&layout=compact&theme=gruvbox&hide_border=true)
+
+---
+
+### 🏆 Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bben-aou&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6)
+
+---
+
+## 📰 Daily.dev Card  
 
 <a href="https://app.daily.dev/bilal123">
-  <img src="https://api.daily.dev/devcards/v2/j8xGlMSCI8Qq6ICgK5Rpq.png?type=default&r=t7z" width="356" alt="Bilal's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/j8xGlMSCI8Qq6ICgK5Rpq.png?type=default&r=t7z" width="350" alt="Bilal's Dev Card"/>
 </a>
 
-</div>
+---
+
+## 📫 Connect With Me
+
+- 🌍 Portfolio: **https://bilal-ben-aouad.vercel.app/** 
+- 💼 LinkedIn: https://www.linkedin.com/in/bilal-ben-aouad  
+- 👨‍💻 GitHub: https://github.com/bben-aou  
+- ✉️ Email: **bilal.benaouad.me@gmail.com**
+
+---
+
+✨ *Thanks for visiting! Feel free to explore, star, or collaborate.*
